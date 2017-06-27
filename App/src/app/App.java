@@ -13,6 +13,5 @@ public class App {
         Splash i = new Splash();
         i.setLocationRelativeTo(null);
         i.setVisible(true);
-        
     }
 }
